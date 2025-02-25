@@ -27,7 +27,7 @@ setuptools.setup(
         "Issue Tracker": "https://github.com/AsmSafone/SafoneAPI/issues",
     },
     keywords=["API", "SafoneAPI", "Safone-API", "Safone_API"],
-    install_requires=["aiohttp", "aiofiles", "pyrogram"],
+    install_requires=["aiohttp", "aiofiles", "pyrofork"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
